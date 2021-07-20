@@ -22,19 +22,19 @@ What you fallback to is your fluency.
 
 **Fluency** is more a matter of habits than skills. Although training courses can teach the underlying skills, the skillful ease at the heart of fluency requires practice. A lot of practice.
 
-**Team Fluency** is how a team develops software when it’s under pressure. Anyone can follow a set of practices when given time to focus in a classroom; true fluency is a skillful, routine practice that persists when your mind is distracted with other things.
+**Team Fluency** is **how a team develops software when it’s under pressure**. Anyone can follow a set of practices when given time to focus in a classroom; true fluency is a skillful, routine practice that persists when your mind is distracted with other things.
 
 It’s best to choose the level of fluency you want to achieve and to practice everything needed for that level from the beginning.
 
 Teams progress through four distinct stages of Agile fluency:
 
-![Teams progress through four distinct stages of Agile fluency](http://images-discourse-xpeppers-com.s3-eu-central-1.amazonaws.com/original/1X/905377952f8d0c438f4d9f42a704ed605ef6c51d.png)
+![Teams progress through four distinct stages of Agile fluency](https://i.imgur.com/txLrmAN.png)
 
 ### Level 0: We Build Code
-Starting point: fluency in programming. You have a "team" of dev which build code, maybe not bug-free, maybe not able to deliver when they should.
+Starting point: fluency in programming. You have a "team" of devs which build code, maybe not bug-free, maybe not able to deliver when they should.
 The "team" is now really a collection of individuals with complementary technical skills, not a real team.
 
-Than a foreign element occurs: e.g. managers want to improve quality (reduce bugs) or more successful ability to deliver. So they decide they want embrace agility.
+Than a foreign element occurs: e.g. managers want to improve quality (reduce bugs) or have a more successful ability to deliver. So they decide they want to embrace agility.
 
 ### One Star: We Create Business Value
 One-star fluency level reflects **Agile fundamentals**.
