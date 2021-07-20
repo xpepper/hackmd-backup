@@ -4,9 +4,11 @@ tags: agile
 disqus: pierodibello
 ---
 
-I'm currently studying The Agile Fluency model by James Shore and Diana Larsen, and I found this talk, which is almost a perfect transposition of the great article published by the very same authors on Martin Fowler's blog: **http://martinfowler.com/articles/agileFluency.html**. This post is indeed the starting point if you want to deepen this topic. Or you can check out my notes here...
+I'm currently studying **The Agile Fluency model** by James Shore and Diana Larsen, and I found [this talk](https://vimeo.com/68327316), which is almost a perfect transposition of the article published by the very same authors on Martin Fowler's blog: **http://martinfowler.com/articles/agileFluency.html**.
 
-Here's the video: **https://vimeo.com/68327316**
+This post is indeed the starting point if you want to deepen this topic. Or you can check out my notes here...
+
+{%vimeo 68327316 %}
 
 _The promise of Agile is simple and compelling: a team that effortlessly surfs the wave of business possibility, changing direction to meet the needs of a changing market. **So why do so few teams achieve that ideal? Lack of fluency**. Agile may be simple, but it's far from easy, and it takes years of practice to do well. We'll look at four phases of Agile fluency, what you can expect from each phase, and how to increase your team's fluency so you can achieve what Agile promises._
 
